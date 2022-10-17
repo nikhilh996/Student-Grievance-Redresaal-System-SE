@@ -1,1 +1,1 @@
-# Student-Grievnace-Redresaal-System-SE
+# Student-Grievance-Redresaal-System-SE
